@@ -77,12 +77,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/RRaphael-dev/RRaphael-dev/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <a href="https://open.spotify.com/user/3122sb26yost3zx5xr2shywfdhcq">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=3122sb26yost3zx5xr2shywfdhcq&count=3" alt="Spotify recently played"  />
