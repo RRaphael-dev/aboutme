@@ -7,11 +7,20 @@
 </div>
 
 ###
-
-<div align="center">
-  <h1>FiveM Project i created/helped</h1>
+<hr>
+<div>
+  <h1 align="center">FiveM Project i created/helped</h1>
+    <ul>
+        <li>Future Developer/Management</li>
+        <li>Westlife Owner</li>
+        <li>Westkust Developer</li>
+        <li>MRP Developer</li>
+        <li>Ruthless Developer</li>
+        <li>Noorderhaven Developer</li>
+        <li>TakeOff Owner</li>
+    </ul>
 </div>
-
+<hr>
 ###
 
 <div align="left">
